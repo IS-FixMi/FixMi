@@ -2,9 +2,9 @@
 
 ## Made by
 
-- Giovanni Santini @San7o
-- Riginel Ungureanu @zawarudoda02
-- Valerio Asaro @Qw3rty26
+- Giovanni Santini [@San7o](https://github.com/San7o)
+- Riginel Ungureanu [@zawarudoda02](https://github.com/zawarudoda02)
+- Valerio Asaro [@Qw3rty26](https://github.com/Qw3rty26)
 
 
 ## Made for
