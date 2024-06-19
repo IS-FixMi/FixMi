@@ -2,7 +2,7 @@
 
 ## Made by
 
-- Giovanni Santini (@San7o)
+- Giovanni Santini @San7o
 - Riginel Ungureanu @zawarudoda02
 - Valerio Asaro @Qw3rty26
 
